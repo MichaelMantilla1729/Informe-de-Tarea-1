@@ -55,6 +55,8 @@ Realizar los ejercicios pares del capítulo 1 y 2
 Capítulo 1 ejercicios pares:  
 ![image](https://user-images.githubusercontent.com/105682201/169324052-dc8e7780-1b33-4cc1-8c81-626880310f74.png)
 
-
+![image](https://user-images.githubusercontent.com/105682201/169324607-9a31b7b2-3068-434d-8410-0ce8e6f5217b.png)
+![image](https://user-images.githubusercontent.com/105682201/169324873-34f2e78d-2bbe-47b1-b790-26c2323a1b73.png)
+![image](https://user-images.githubusercontent.com/105682201/169325284-98297978-52f7-442c-87e9-13dafd2fe314.png)
 
 
