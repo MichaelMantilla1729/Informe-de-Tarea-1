@@ -59,6 +59,24 @@ Capítulo 1 ejercicios pares:
 a)2*10^-3
 b)5*10^(-4)
 c) 2*10^(-7)
-![Uploading image.png…]()
+
+![image](https://user-images.githubusercontent.com/105682201/169323196-880a50d0-f0b5-4f25-92de-8e5ef75a52ac.png)
+a)2*10^(-4)
+b)6*10^(-1)
+c)0.078
+
+![image](https://user-images.githubusercontent.com/105682201/169323232-5c46ea51-7247-4906-a426-c335504617ab.png)
+a)200000
+b)0.000000054
+c)10
+
+![image](https://user-images.githubusercontent.com/105682201/169323297-ed54c3e7-4fe8-4316-a0b1-0e08e53403e5.png)
+a)0.0000045
+b)0.00000008
+c)0.000000000004
+
+![image](https://user-images.githubusercontent.com/105682201/169323345-7094807f-57e1-48e4-b7b3-1cf2fe98db2b.png)
+ 
+
 
 
