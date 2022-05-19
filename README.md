@@ -49,3 +49,16 @@ Capitulo2: Voltaje, corriente y resistencia.
 
 
 
+3.Resolución de ejercicios o problemas: 
+Realizar los ejercicios pares del capítulo 1 y 2  
+
+Capítulo 1 ejercicios pares:  
+
+![image](https://user-images.githubusercontent.com/105682201/169314960-fd126f3c-3b25-4501-a739-5b306caaf425.png)![image](https://user-images.githubusercontent.com/105682201/169315195-62d28508-0e02-4529-a95d-918c2f9b29ca.png)
+![image](https://user-images.githubusercontent.com/105682201/169315330-3b9faee8-5033-4c2c-bf91-ae65a9f3f0e9.png)
+a)2*10^-3
+b)5*10^(-4)
+c) 2*10^(-7)
+![Uploading image.png…]()
+
+
