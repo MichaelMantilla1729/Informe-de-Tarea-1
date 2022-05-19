@@ -57,9 +57,10 @@ Capítulo 1 ejercicios pares:
 
 ![image](https://user-images.githubusercontent.com/105682201/169324607-9a31b7b2-3068-434d-8410-0ce8e6f5217b.png)
 ![image](https://user-images.githubusercontent.com/105682201/169324873-34f2e78d-2bbe-47b1-b790-26c2323a1b73.png)
+![image](https://user-images.githubusercontent.com/105682201/169325284-98297978-52f7-442c-87e9-13dafd2fe314.png)
 
 Capitulo 2 Ejercicios Pares :
-![image](https://user-images.githubusercontent.com/105682201/169325661-efe9e088-edaf-4e11-a925-75df211e2418.png)
+
 ![image](https://user-images.githubusercontent.com/105682201/169325820-9502f148-6b44-4386-a6d3-3d4ec2a4909c.png)
 ![image](https://user-images.githubusercontent.com/105682201/169325965-e45fcefc-384a-484c-a552-2c8569cd2e5a.png)
 ![image](https://user-images.githubusercontent.com/105682201/169326201-5e8adfba-6ae9-4366-b795-6ef1538f1186.png)
