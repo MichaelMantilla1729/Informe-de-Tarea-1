@@ -12,5 +12,10 @@ Objetivos Específicos:
 
 * Reconocer los riesgos eléctricos  y sus efectos en el cuerpo humano 
 
+2.Marco teórico  
+Capitulo 1: Unidades y Cantidades 
+![image](https://user-images.githubusercontent.com/105682201/169180221-721a6c0a-84e9-4b18-936f-f34a34eb16af.png)
+
+
 
 
