@@ -53,30 +53,8 @@ Capitulo2: Voltaje, corriente y resistencia.
 Realizar los ejercicios pares del capítulo 1 y 2  
 
 Capítulo 1 ejercicios pares:  
+![image](https://user-images.githubusercontent.com/105682201/169324052-dc8e7780-1b33-4cc1-8c81-626880310f74.png)
 
-![image](https://user-images.githubusercontent.com/105682201/169314960-fd126f3c-3b25-4501-a739-5b306caaf425.png)![image](https://user-images.githubusercontent.com/105682201/169315195-62d28508-0e02-4529-a95d-918c2f9b29ca.png)
-![image](https://user-images.githubusercontent.com/105682201/169315330-3b9faee8-5033-4c2c-bf91-ae65a9f3f0e9.png)
-a)2*10^-3
-b)5*10^(-4)
-c) 2*10^(-7)
-
-![image](https://user-images.githubusercontent.com/105682201/169323196-880a50d0-f0b5-4f25-92de-8e5ef75a52ac.png)
-a)2*10^(-4)
-b)6*10^(-1)
-c)0.078
-
-![image](https://user-images.githubusercontent.com/105682201/169323232-5c46ea51-7247-4906-a426-c335504617ab.png)
-a)200000
-b)0.000000054
-c)10
-
-![image](https://user-images.githubusercontent.com/105682201/169323297-ed54c3e7-4fe8-4316-a0b1-0e08e53403e5.png)
-a)0.0000045
-b)0.00000008
-c)0.000000000004
-
-![image](https://user-images.githubusercontent.com/105682201/169323345-7094807f-57e1-48e4-b7b3-1cf2fe98db2b.png)
- 
 
 
 
